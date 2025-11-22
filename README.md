@@ -120,4 +120,4 @@ MIT License
 
 ## Autor
 
-Desenvolvido com Claude AI Assistant
+WALTER AUGUSTO OSORIO JUNIOR
