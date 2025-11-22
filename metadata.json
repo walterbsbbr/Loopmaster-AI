@@ -1,0 +1,5 @@
+{
+  "name": "LoopMaster AI",
+  "description": "A professional loop editor that detects seamless loop points and embeds sampler-ready metadata (smpl chunks) into WAV files.",
+  "requestFramePermissions": []
+}
